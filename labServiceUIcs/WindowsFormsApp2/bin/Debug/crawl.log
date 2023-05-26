@@ -1,0 +1,967 @@
+2023-03-29 19:49:53,525 [1] INFO labRepositoryCs.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 19:49:53,546 [1] INFO labRepositoryCs.repository.ArtistsDBRepository - getting all artists
+2023-03-29 19:49:53,859 [1] INFO labRepositoryCs.repository.ArtistsDBRepository - finished finding all
+2023-03-29 19:49:53,860 [1] INFO labRepositoryCs.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 19:49:53,861 [1] INFO labRepositoryCs.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-29 19:49:53,865 [1] INFO labRepositoryCs.repository.CashiersDBRepository - The cashier found 
+2023-03-29 19:51:17,764 [1] INFO labRepositoryCs.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 19:51:17,777 [1] INFO labRepositoryCs.repository.ArtistsDBRepository - getting all artists
+2023-03-29 19:51:17,845 [1] INFO labRepositoryCs.repository.ArtistsDBRepository - finished finding all
+2023-03-29 19:51:17,847 [1] INFO labRepositoryCs.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 19:51:17,848 [1] INFO labRepositoryCs.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-29 19:51:17,853 [1] INFO labRepositoryCs.repository.CashiersDBRepository - The cashier found 
+2023-03-29 19:56:06,638 [1] INFO labRepositoryCs.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 19:56:06,652 [1] INFO labRepositoryCs.repository.ArtistsDBRepository - getting all artists
+2023-03-29 19:56:06,719 [1] INFO labRepositoryCs.repository.ArtistsDBRepository - finished finding all
+2023-03-29 19:56:06,721 [1] INFO labRepositoryCs.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 19:56:06,721 [1] INFO labRepositoryCs.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-29 19:56:06,727 [1] INFO labRepositoryCs.repository.CashiersDBRepository - The cashier found 
+2023-03-29 21:53:31,269 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 21:53:31,278 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 21:53:31,278 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 21:53:31,278 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 21:54:04,013 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 21:54:04,021 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 21:54:04,021 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 21:54:04,021 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 21:54:21,887 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 21:54:21,901 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 21:54:21,901 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 21:54:21,901 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 21:55:08,665 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 21:55:08,677 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 21:55:08,677 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 21:55:08,678 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 21:55:54,551 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 21:55:54,561 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 21:55:54,561 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 21:55:54,561 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 21:56:07,092 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 21:56:07,100 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 21:56:07,100 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 21:56:07,100 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 21:57:46,994 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 21:57:47,002 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 21:57:47,003 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 21:57:47,003 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 21:58:00,269 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 21:58:00,277 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 21:58:00,277 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 21:58:00,277 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 21:59:25,463 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 21:59:25,474 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 21:59:25,474 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 21:59:25,474 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 21:59:30,848 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-29 21:59:30,920 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:03:41,215 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:03:41,225 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:03:41,226 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:03:41,226 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:03:46,870 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-29 22:03:46,943 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:11:41,493 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:11:41,502 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:11:41,503 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:11:41,503 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:13:19,807 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:13:19,816 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:13:19,817 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:13:19,817 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:13:25,790 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:13:25,867 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:13:32,112 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password alex
+2023-03-29 22:13:32,112 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:14:07,128 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:14:07,137 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:14:07,138 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:14:07,138 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:14:12,289 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:14:12,358 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:14:29,845 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:14:29,855 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:14:29,855 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:14:29,855 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:14:34,127 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password alex
+2023-03-29 22:14:34,196 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:15:07,205 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:15:07,213 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:15:07,214 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:15:07,214 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:15:13,086 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:15:13,161 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:20:29,375 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:20:29,384 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:20:29,384 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:20:29,384 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:20:36,419 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:20:36,489 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:21:54,626 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:21:54,636 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:21:54,636 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:21:54,636 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:21:59,679 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:21:59,753 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:21:59,753 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:21:59,754 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:22:02,095 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password 
+2023-03-29 22:22:02,095 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:22:02,095 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password 
+2023-03-29 22:22:02,095 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:22:15,690 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:22:15,698 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:22:15,698 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:22:15,698 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:22:20,896 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:22:20,964 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:22:20,964 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:22:20,964 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:28:55,351 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:28:55,359 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:28:55,360 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:28:55,360 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:29:00,697 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:29:00,771 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:29:00,772 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:29:00,772 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:34:37,324 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:34:37,334 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:34:37,334 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:34:37,334 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:35:32,944 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:35:32,952 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:35:32,952 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:35:32,953 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:35:39,749 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:36:25,486 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:37:29,751 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:37:29,762 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:37:29,763 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:37:29,763 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:37:39,399 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password alex
+2023-03-29 22:39:41,015 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:39:41,025 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:39:41,025 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:39:41,026 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:39:46,411 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:39:46,477 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:39:46,477 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:39:46,477 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:39:46,478 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password -1
+2023-03-29 22:39:46,478 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:39:46,478 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password -1
+2023-03-29 22:39:46,478 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found 
+2023-03-29 22:47:15,587 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:47:15,599 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:47:15,600 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:47:15,600 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:47:20,763 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:47:20,829 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:47:20,829 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:47:20,829 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:47:20,831 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password -1
+2023-03-29 22:47:20,831 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:47:20,831 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password -1
+2023-03-29 22:47:20,831 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:47:50,746 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:47:50,756 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:47:50,756 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:47:50,756 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:47:55,849 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:47:55,918 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:47:55,919 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:47:55,919 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:47:55,919 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password -1
+2023-03-29 22:47:55,919 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:47:55,919 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password -1
+2023-03-29 22:47:55,920 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:49:23,631 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-29 22:49:23,640 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-29 22:49:23,640 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-29 22:49:23,640 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-29 22:49:30,272 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:49:30,336 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:49:30,336 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-29 22:49:30,336 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:49:30,337 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password -1
+2023-03-29 22:49:30,337 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-29 22:49:30,337 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password -1
+2023-03-29 22:49:30,337 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-30 08:51:41,369 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 08:51:41,378 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 08:51:41,378 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 08:51:41,378 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 08:51:51,557 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-30 08:51:51,672 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-30 08:51:51,672 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-30 08:51:51,672 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-30 08:51:51,673 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password -1
+2023-03-30 08:51:51,673 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-30 08:51:51,673 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password -1
+2023-03-30 08:51:51,673 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found {0}
+2023-03-30 08:52:00,323 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 08:52:00,331 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 08:52:00,331 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 08:52:00,332 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 08:53:48,424 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni
+2023-03-30 09:00:52,563 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 09:00:52,574 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 09:00:52,574 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 09:00:52,575 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 09:01:41,838 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:06:15,045 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 09:06:15,055 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 09:06:15,055 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 09:06:15,055 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 09:06:25,632 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:06:25,705 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 09:06:25,747 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:06:25,748 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 09:07:33,692 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 09:07:33,700 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 09:07:33,701 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 09:07:33,701 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 09:07:37,931 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:07:38,008 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 09:07:38,019 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:07:38,020 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 09:07:50,323 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 09:07:50,331 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 09:07:50,332 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 09:07:50,332 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 09:07:54,820 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:07:54,891 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 09:07:54,941 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:07:54,942 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 09:25:14,335 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 09:25:14,344 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 09:25:14,344 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 09:25:14,344 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 09:25:20,806 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:25:20,880 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 09:25:20,945 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 09:25:20,945 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 09:25:20,952 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:25:20,952 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 09:25:20,965 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 09:25:20,965 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 09:27:10,129 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 09:27:10,138 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 09:27:10,138 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 09:27:10,138 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 09:27:14,155 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:27:14,225 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 09:27:14,255 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 09:27:14,256 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 09:27:14,256 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 09:27:14,257 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 09:27:14,292 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 09:27:14,292 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 09:27:14,303 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 09:27:14,304 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 09:27:14,304 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 09:27:14,304 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:05:59,389 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:05:59,397 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:05:59,398 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:05:59,398 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:06:04,130 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:06:04,206 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:06:04,242 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:06:04,242 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:06:53,065 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:06:53,075 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:06:53,075 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:06:53,075 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:06:57,963 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:06:58,036 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:06:58,066 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:06:58,066 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:06:58,067 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:06:58,069 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:06:58,079 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:06:58,079 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:06:58,095 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:06:58,095 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:06:58,095 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:06:58,095 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:08:06,422 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:08:06,430 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:08:06,431 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:08:06,431 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:08:10,723 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:08:10,798 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:08:10,835 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:08:10,836 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:08:10,836 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:08:10,837 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:08:10,837 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:08:10,837 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:08:10,850 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:08:10,850 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:08:10,871 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:08:10,871 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:08:10,871 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:08:10,871 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:08:10,871 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:08:10,871 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:08:17,086 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-03-30 10:08:17,087 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:08:17,087 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:08:17,087 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:08:17,088 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-03-30 10:08:17,088 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:08:17,088 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:08:17,088 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:10:33,959 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:10:33,968 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:10:33,968 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:10:33,968 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:10:38,384 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:10:38,455 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:10:38,495 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:10:38,495 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:10:38,496 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:10:38,496 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:10:38,499 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:10:38,499 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:10:38,511 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:10:38,511 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:10:38,536 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:10:38,537 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:10:38,537 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:10:38,537 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:10:38,537 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:10:38,537 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:10:44,353 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-03-30 10:10:44,353 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:10:44,353 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:10:44,354 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:10:44,403 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-03-30 10:10:44,404 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:10:44,404 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:10:44,404 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:11:52,691 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:11:52,700 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:11:52,700 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:11:52,700 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:11:57,037 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:11:57,110 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:11:57,142 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:11:57,142 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:11:57,143 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:11:57,143 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:11:57,144 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:11:57,144 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:11:57,156 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:11:57,157 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:11:57,177 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:11:57,177 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:11:57,177 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:11:57,177 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:11:57,177 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:11:57,177 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:12:11,155 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-03-30 10:12:11,156 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:12:11,156 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:12:11,156 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:12:11,158 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-03-30 10:12:11,158 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:12:11,158 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:12:11,158 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:12:16,921 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-03-30 10:12:16,921 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:12:16,921 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:12:16,921 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:12:16,924 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-03-30 10:12:16,924 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:12:16,924 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:12:16,924 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:12:25,877 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 10:13:46,344 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:13:46,354 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:13:46,354 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:13:46,354 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:13:55,249 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:13:55,321 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:13:55,354 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:13:55,354 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:13:55,355 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:13:55,355 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:13:55,357 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:13:55,357 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:13:55,369 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:13:55,369 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:13:55,387 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:13:55,387 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:13:55,387 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:13:55,387 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:13:55,387 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:13:55,387 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:14:05,129 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 10:14:27,008 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:14:27,016 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:14:27,017 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:14:27,017 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:14:31,202 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:14:31,273 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:14:31,309 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:14:31,309 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:14:31,310 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:14:31,310 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:14:31,312 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:14:31,313 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:14:31,323 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:14:31,323 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:14:31,338 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:14:31,338 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:14:31,338 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:14:31,338 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:14:31,339 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:14:31,339 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:14:36,637 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 10:14:36,637 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found 
+2023-03-30 10:17:24,151 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:17:24,161 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:17:24,161 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:17:24,161 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:17:29,266 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:17:29,401 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:17:29,431 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:17:29,432 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:17:29,432 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:17:29,433 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:17:29,434 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:17:29,434 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:17:29,446 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:17:29,447 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:17:29,461 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:17:29,461 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:17:29,461 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:17:29,461 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:17:29,462 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:17:29,462 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:18:13,816 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 10:20:19,487 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:20:19,496 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:20:19,496 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:20:19,497 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:20:23,888 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:20:23,961 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:20:23,993 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:20:23,994 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:20:23,994 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:20:23,995 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:20:23,996 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:20:23,998 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:20:24,008 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:20:24,009 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:20:24,027 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:20:24,027 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:20:24,027 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:20:24,027 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:20:24,028 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:20:24,028 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:20:29,278 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 10:20:29,278 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found 
+2023-03-30 10:25:05,160 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:25:05,170 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:25:05,170 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:25:05,170 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:25:09,353 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:25:09,431 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:25:09,461 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:25:09,463 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:25:09,464 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:25:09,466 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:25:09,467 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:25:09,467 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:25:09,477 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:25:09,477 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:25:09,493 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:25:09,494 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:25:09,494 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:25:09,494 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:25:09,495 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:25:09,495 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:25:19,122 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:25:19,122 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:25:19,153 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:25:19,153 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:25:19,153 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:25:19,153 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:25:19,154 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:25:19,154 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:25:19,169 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:25:19,169 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:25:19,194 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:25:19,194 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:25:19,194 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:25:19,194 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:25:19,195 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:25:19,195 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:25:32,707 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 10:25:32,707 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found 
+2023-03-30 10:28:45,176 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:28:45,184 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:28:45,184 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:28:45,184 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:28:49,059 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:28:49,135 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:28:49,165 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:28:49,165 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:28:49,166 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:28:49,166 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:28:49,168 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:28:49,168 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:28:49,180 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:28:49,181 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:28:49,197 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:28:49,197 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:28:49,197 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:28:49,197 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:28:49,198 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:28:49,198 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:28:57,365 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 10:28:57,365 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found 
+2023-03-30 10:30:59,771 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:30:59,780 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:30:59,780 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:30:59,781 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:31:03,895 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:31:04,033 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:31:04,097 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:31:04,098 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:31:04,102 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:31:04,104 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:31:04,114 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:31:04,116 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:31:04,140 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:31:04,141 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:31:04,176 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:31:04,176 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:31:04,176 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:31:04,176 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:31:04,178 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:31:04,178 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:33:05,832 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:33:05,841 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:33:05,841 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:33:05,841 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:33:09,943 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:33:10,018 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:33:10,061 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:33:10,062 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:33:10,062 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:33:10,063 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:33:10,064 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:33:10,064 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:33:10,081 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:33:10,081 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:33:10,101 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:33:10,101 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:33:10,101 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:33:10,101 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:33:10,102 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:33:10,102 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:34:59,519 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:34:59,530 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:34:59,530 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:34:59,530 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:35:04,522 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:35:04,599 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:35:04,646 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:35:04,648 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:35:04,649 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:35:04,650 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:35:04,652 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:35:04,652 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:35:04,664 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:35:04,665 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:35:04,685 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:35:04,685 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:35:04,685 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:35:04,685 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:35:04,686 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:35:04,686 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:35:12,639 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 10:35:12,639 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found WindowsFormsApp2.model.Concert
+2023-03-30 10:35:12,640 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saving the order WindowsFormsApp2.model.Order in db
+2023-03-30 10:35:12,694 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saved entity WindowsFormsApp2.model.Order
+2023-03-30 10:37:39,915 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:37:39,926 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:37:39,926 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:37:39,926 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:37:43,585 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:37:43,656 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:37:43,689 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:37:43,690 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:37:43,690 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:37:43,691 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:37:43,692 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:37:43,692 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:37:43,702 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:37:43,703 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:37:43,724 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:37:43,725 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:37:43,725 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:37:43,725 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:37:43,725 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:37:43,725 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:37:50,233 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 10:37:50,234 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found WindowsFormsApp2.model.Concert
+2023-03-30 10:37:50,235 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saving the order WindowsFormsApp2.model.Order in db
+2023-03-30 10:37:50,246 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saved entity WindowsFormsApp2.model.Order
+2023-03-30 10:38:21,506 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 10:38:21,515 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 10:38:21,515 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 10:38:21,515 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 10:38:27,032 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:38:27,108 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:38:27,154 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:38:27,156 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:38:27,157 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:38:27,158 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:38:27,160 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:38:27,160 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:38:27,170 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 10:38:27,171 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 10:38:27,186 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 10:38:27,186 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 10:38:27,186 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 10:38:27,186 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:38:27,187 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 10:38:27,187 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 10:38:33,447 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 10:38:33,447 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found 
+2023-03-30 11:57:50,732 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 11:57:50,750 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 11:57:50,750 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 11:57:50,750 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 11:57:55,270 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 11:57:55,654 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 11:57:55,737 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 11:57:55,737 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 11:57:55,737 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 11:57:55,737 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 11:57:55,746 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 11:57:55,746 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 11:57:55,763 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 11:57:55,763 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 11:57:55,805 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 11:57:55,805 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 11:57:55,805 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 11:57:55,805 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 11:57:55,807 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 11:57:55,807 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 11:58:08,225 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 11:58:08,225 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found 
+2023-03-30 11:58:23,182 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 11:58:23,191 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 11:58:23,191 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 11:58:23,191 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 11:58:28,191 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 11:58:28,411 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 11:58:28,509 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 11:58:28,511 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 11:58:28,511 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 11:58:28,511 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 11:58:28,517 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 11:58:28,517 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 11:58:28,535 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 11:58:28,536 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 11:58:28,570 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 11:58:28,570 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 11:58:28,570 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 11:58:28,570 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 11:58:28,572 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 11:58:28,572 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 11:58:58,235 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 12:00:39,571 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 12:00:39,579 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 12:00:39,580 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 12:00:39,580 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 12:00:44,510 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:00:44,599 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:00:44,686 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:00:44,687 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:00:44,688 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:00:44,688 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:00:44,690 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:00:44,691 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:00:44,733 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:00:44,734 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:00:44,790 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:00:44,791 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:00:44,792 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:00:44,792 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:00:44,793 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:00:44,794 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:00:52,586 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 12:00:52,586 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found 
+2023-03-30 12:01:20,680 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 12:01:20,692 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 12:01:20,692 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 12:01:20,693 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 12:01:25,435 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:01:25,525 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:01:25,628 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:01:25,628 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:01:25,629 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:01:25,630 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:01:25,633 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:01:25,634 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:01:25,682 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:01:25,682 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:01:25,769 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:01:25,771 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:01:25,771 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:01:25,771 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:01:25,774 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:01:25,775 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:01:33,524 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 12:01:33,524 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found WindowsFormsApp2.model.Concert
+2023-03-30 12:01:33,527 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saving the order WindowsFormsApp2.model.Order in db
+2023-03-30 12:01:33,540 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saved entity WindowsFormsApp2.model.Order
+2023-03-30 12:06:36,329 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 12:06:36,347 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 12:06:36,347 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 12:06:36,347 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 12:06:40,712 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:06:40,814 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:06:40,880 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:06:40,881 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:06:40,881 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:06:40,882 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:06:40,884 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:06:40,885 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:06:40,920 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:06:40,921 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:06:40,977 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:06:40,978 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:06:40,978 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:06:40,978 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:06:40,980 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:06:40,980 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:06:49,477 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 12:06:49,479 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found WindowsFormsApp2.model.Concert
+2023-03-30 12:06:49,480 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saving the order WindowsFormsApp2.model.Order in db
+2023-03-30 12:06:49,524 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saved entity WindowsFormsApp2.model.Order
+2023-03-30 12:06:49,525 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting concert by id 2
+2023-03-30 12:06:49,525 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - found concert WindowsFormsApp2.model.Concert
+2023-03-30 12:06:49,526 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - update concert tickets with id 2
+2023-03-30 12:06:49,538 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - updated order with id 2
+2023-03-30 12:06:49,538 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:06:49,539 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:06:49,539 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:06:49,539 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:06:49,542 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:06:49,542 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:09:08,816 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 12:09:08,872 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 12:09:08,872 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 12:09:08,873 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 12:09:13,801 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:09:13,896 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:09:13,971 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:09:13,972 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:09:13,973 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:09:13,974 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:09:13,977 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:09:13,977 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:09:14,021 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:09:14,022 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:09:14,083 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:09:14,083 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:09:14,083 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:09:14,083 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:09:14,083 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:09:14,085 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:09:25,830 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 12:09:25,831 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found WindowsFormsApp2.model.Concert
+2023-03-30 12:09:25,833 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saving the order WindowsFormsApp2.model.Order in db
+2023-03-30 12:09:25,867 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saved entity WindowsFormsApp2.model.Order
+2023-03-30 12:09:25,869 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting concert by id 2
+2023-03-30 12:09:25,869 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - found concert WindowsFormsApp2.model.Concert
+2023-03-30 12:09:25,870 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - update concert tickets with id 2
+2023-03-30 12:09:25,881 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - updated order with id 2
+2023-03-30 12:09:25,882 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:09:25,882 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:09:25,882 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:09:25,883 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:09:25,885 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:09:25,886 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:12:12,281 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 12:12:12,290 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 12:12:12,290 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 12:12:12,291 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 12:12:17,292 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:12:17,390 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:12:17,494 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:12:17,494 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:12:17,495 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:12:17,496 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:12:17,497 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:12:17,497 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:12:17,537 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:12:17,538 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:12:17,570 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:12:17,570 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:12:17,570 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:12:17,570 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:12:17,573 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:12:17,574 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:12:53,541 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 12:12:53,552 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 12:12:53,552 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 12:12:53,553 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 12:12:59,015 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:12:59,111 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:12:59,129 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:12:59,130 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:13:10,317 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 12:13:10,332 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 12:13:10,332 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 12:13:10,332 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 12:13:15,186 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:13:15,282 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:13:15,346 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:13:15,347 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:13:15,349 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:13:15,349 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:13:15,350 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:13:15,350 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:13:15,382 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:13:15,383 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:13:15,412 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:13:15,412 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:13:15,412 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:13:15,412 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:13:15,413 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:13:15,413 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:14:48,111 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 12:14:48,121 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 12:14:48,122 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 12:14:48,122 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 12:14:55,018 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:14:55,145 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:14:55,237 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:14:55,237 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:17:59,126 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-03-30 12:17:59,126 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-03-30 12:17:59,126 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-03-30 12:17:59,126 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-03-30 12:18:03,802 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:18:03,910 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:18:03,977 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:18:03,977 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:18:03,977 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:18:03,977 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:18:03,984 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:18:03,984 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:18:04,028 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-03-30 12:18:04,028 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-03-30 12:18:04,067 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:18:04,067 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:18:04,067 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:18:04,067 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:18:04,070 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:18:04,070 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:18:15,438 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 12:18:15,438 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found WindowsFormsApp2.model.Concert
+2023-03-30 12:18:15,438 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saving the order WindowsFormsApp2.model.Order in db
+2023-03-30 12:18:15,490 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saved entity WindowsFormsApp2.model.Order
+2023-03-30 12:18:15,506 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting concert by id 2
+2023-03-30 12:18:15,506 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - found concert WindowsFormsApp2.model.Concert
+2023-03-30 12:18:15,507 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - update concert tickets with id 2
+2023-03-30 12:18:15,507 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - updated order with id 2
+2023-03-30 12:18:15,507 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:18:15,519 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:18:15,519 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:18:15,519 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:18:15,521 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:18:15,521 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:18:24,852 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-03-30 12:18:24,852 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found WindowsFormsApp2.model.Concert
+2023-03-30 12:18:24,852 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saving the order WindowsFormsApp2.model.Order in db
+2023-03-30 12:18:24,863 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saved entity WindowsFormsApp2.model.Order
+2023-03-30 12:18:24,863 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting concert by id 1
+2023-03-30 12:18:24,863 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - found concert WindowsFormsApp2.model.Concert
+2023-03-30 12:18:24,863 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - update concert tickets with id 1
+2023-03-30 12:18:24,864 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - updated order with id 1
+2023-03-30 12:18:24,864 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-03-30 12:18:24,864 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:18:24,864 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:18:24,864 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:18:24,875 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-03-30 12:18:24,875 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:18:33,603 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-03-30 12:18:33,603 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:18:33,603 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:18:33,603 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-03-30 12:18:33,617 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-03-30 12:18:33,617 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-03-30 12:18:33,617 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-03-30 12:18:33,617 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 17:55:52,074 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-04-03 17:55:52,130 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-04-03 17:55:52,130 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-04-03 17:55:52,130 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-04-03 17:55:58,764 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-04-03 17:55:58,995 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-04-03 17:55:59,067 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-04-03 17:55:59,068 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-04-03 17:55:59,070 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-04-03 17:55:59,071 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 17:55:59,078 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-04-03 17:55:59,079 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 17:55:59,114 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-04-03 17:55:59,115 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-04-03 17:55:59,165 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-04-03 17:55:59,166 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-04-03 17:55:59,166 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-04-03 17:55:59,166 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 17:55:59,167 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-04-03 17:55:59,167 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 18:08:40,437 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing ArtistsDBRepository
+2023-04-03 18:08:40,449 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing CashiersDBRepository
+2023-04-03 18:08:40,449 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - Initializing ConcertsDBRepository
+2023-04-03 18:08:40,450 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Initializing OrdersDBRepository
+2023-04-03 18:08:45,329 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-04-03 18:08:45,437 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-04-03 18:08:45,495 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-04-03 18:08:45,496 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-04-03 18:08:45,496 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-04-03 18:08:45,498 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 18:08:45,501 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-04-03 18:08:45,502 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 18:08:45,524 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find cashier by username and password toni toni
+2023-04-03 18:08:45,525 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - The cashier found WindowsFormsApp2.model.Cashier
+2023-04-03 18:08:45,554 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-04-03 18:08:45,554 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-04-03 18:08:45,554 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-04-03 18:08:45,554 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 18:08:45,556 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-04-03 18:08:45,556 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 18:08:58,708 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-04-03 18:08:58,708 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-04-03 18:08:58,708 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-04-03 18:08:58,709 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 18:08:58,711 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts by date
+2023-04-03 18:08:58,711 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-04-03 18:08:58,711 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-04-03 18:08:58,711 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 18:09:05,818 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - find concert by date,location and start
+2023-04-03 18:09:05,820 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - the concert found WindowsFormsApp2.model.Concert
+2023-04-03 18:09:05,822 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saving the order WindowsFormsApp2.model.Order in db
+2023-04-03 18:09:05,837 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - saved entity WindowsFormsApp2.model.Order
+2023-04-03 18:09:05,839 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting concert by id 2
+2023-04-03 18:09:05,839 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - found concert WindowsFormsApp2.model.Concert
+2023-04-03 18:09:05,841 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - update concert tickets with id 2
+2023-04-03 18:09:05,853 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - updated order with id 2
+2023-04-03 18:09:05,853 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - getting all concerts
+2023-04-03 18:09:05,854 [1] INFO WindowsFormsApp2.repository.CashiersDBRepository - finished finding all concerts
+2023-04-03 18:09:05,854 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 1
+2023-04-03 18:09:05,854 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist
+2023-04-03 18:09:05,858 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - Find buyer after id 2
+2023-04-03 18:09:05,858 [1] INFO WindowsFormsApp2.repository.ArtistsDBRepository - The artist found WindowsFormsApp2.model.Artist

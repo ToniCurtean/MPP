@@ -1,0 +1,11 @@
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\bin\Debug\networking.dll
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\bin\Debug\networking.pdb
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\bin\Debug\model.dll
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\bin\Debug\services.dll
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\bin\Debug\model.pdb
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\bin\Debug\services.pdb
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\obj\Debug\networking.csproj.AssemblyReference.cache
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\obj\Debug\networking.csproj.CoreCompileInputs.cache
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\obj\Debug\networking.csproj.CopyComplete
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\obj\Debug\networking.dll
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\networking\obj\Debug\networking.pdb

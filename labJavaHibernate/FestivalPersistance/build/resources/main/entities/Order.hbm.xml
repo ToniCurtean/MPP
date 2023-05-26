@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="org.example.Order"
+           table="orders">
+        <id name="id" column="ORDER_ID" type="java.lang.Integer">
+            <generator class="increment"/>
+        </id>
+        <property name="concertId" column="concertID" type="java.lang.Integer"/>
+        <property name="buyerName" column="buyerName" type="java.lang.String"/>
+        <property name="numberOfTickets" column="numberOfTickets" type="java.lang.Integer"/>
+    </class>
+</hibernate-mapping>
