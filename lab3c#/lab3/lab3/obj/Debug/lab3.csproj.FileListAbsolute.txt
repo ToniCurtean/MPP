@@ -1,0 +1,8 @@
+D:\faculta\anun2\SEM2\MPP\laborator\lab3c#\lab3\lab3\bin\Debug\lab3.exe.config
+D:\faculta\anun2\SEM2\MPP\laborator\lab3c#\lab3\lab3\bin\Debug\lab3.exe
+D:\faculta\anun2\SEM2\MPP\laborator\lab3c#\lab3\lab3\bin\Debug\lab3.pdb
+D:\faculta\anun2\SEM2\MPP\laborator\lab3c#\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\faculta\anun2\SEM2\MPP\laborator\lab3c#\lab3\lab3\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+D:\faculta\anun2\SEM2\MPP\laborator\lab3c#\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\faculta\anun2\SEM2\MPP\laborator\lab3c#\lab3\lab3\obj\Debug\lab3.exe
+D:\faculta\anun2\SEM2\MPP\laborator\lab3c#\lab3\lab3\obj\Debug\lab3.pdb
