@@ -1,0 +1,9 @@
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\services\bin\Debug\services.dll
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\services\bin\Debug\services.pdb
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\services\bin\Debug\model.dll
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\services\bin\Debug\model.pdb
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\services\obj\Debug\services.csproj.AssemblyReference.cache
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\services\obj\Debug\services.csproj.CoreCompileInputs.cache
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\services\obj\Debug\services.csproj.CopyComplete
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\services\obj\Debug\services.dll
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\services\obj\Debug\services.pdb

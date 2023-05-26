@@ -1,0 +1,7 @@
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.SuggestedBindingRedirects.cache
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

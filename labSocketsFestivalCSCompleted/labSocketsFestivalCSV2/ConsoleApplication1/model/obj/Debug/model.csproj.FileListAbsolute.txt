@@ -1,0 +1,6 @@
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\model\bin\Debug\model.dll
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\model\bin\Debug\model.pdb
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\model\obj\Debug\model.csproj.AssemblyReference.cache
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\model\obj\Debug\model.dll
+D:\faculta\anun2\SEM2\MPP\labSocketsFestivalCS\ConsoleApplication1\model\obj\Debug\model.pdb
