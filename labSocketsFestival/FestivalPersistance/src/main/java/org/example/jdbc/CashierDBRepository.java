@@ -5,6 +5,8 @@ import org.example.Cashier;
 import org.example.CashierRepository;
 import org.example.exceptions.RepositoryException;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -17,10 +19,10 @@ public class CashierDBRepository implements CashierRepository {
 
     private JdbcUtils dbUtils;
 
-    ///private static final Logger logger= LogManager.getLogger();
+    private static final Logger logger= LogManager.getLogger();
 
     public CashierDBRepository(Properties props) {
-        ///logger.info("Initializing CashierRepository with properties: {} ",props);
+        logger.info("Initializing CashierRepository with properties: {} ",props);
         dbUtils=new JdbcUtils(props);
     }
 
@@ -47,10 +49,10 @@ public class CashierDBRepository implements CashierRepository {
                 }
             }
         }catch(SQLException e){
-            ///logger.error(e);
+            logger.error(e);
             System.err.println("ERROR DB"+ e);
         }
-        ///logger.traceExit(artists);
+        logger.traceExit(cashiers);
         return cashiers;
     }
 
@@ -71,24 +73,25 @@ public class CashierDBRepository implements CashierRepository {
 
     @Override
     public Cashier getCashierByUserPassword(String username, String password) {
-        ///logger.traceEntry("find by username and password task {}");
+        logger.traceEntry("find by username and password task {}");
         Connection con= dbUtils.getConnection();
-        Cashier cashier=new Cashier();
+        Cashier cashier=null;
         try(PreparedStatement preparedStatement=con.prepareStatement("select * from cashiers where username=? and password=?")){
             preparedStatement.setString(1,username);
             preparedStatement.setString(2,password);
             try(ResultSet resultSet=preparedStatement.executeQuery()){
                 while(resultSet.next()){
+                    cashier=new Cashier();
                     cashier.setUsername(resultSet.getString("username"));
                     cashier.setPassword(resultSet.getString("password"));
                     cashier.setId(resultSet.getInt("id"));
                 }
             }
         }catch(SQLException e){
-            ///logger.error(e);
+            logger.error(e);
             System.err.println("ERROR DB"+ e);
         }
-        ///logger.traceExit(cashier);
+        logger.traceExit(cashier);
         if(cashier==null)
             throw new RepositoryException("no cashier has been found with the given username and password");
         return cashier;

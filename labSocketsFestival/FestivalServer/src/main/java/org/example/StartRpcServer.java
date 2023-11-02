@@ -14,11 +14,11 @@ public class StartRpcServer {
     public static void main(String[] args) {
         Properties serverProps=new Properties();
         try {
-            serverProps.load(StartRpcServer.class.getResourceAsStream("/chatserver.properties"));
+            serverProps.load(StartRpcServer.class.getResourceAsStream("/festivalserver.properties"));
             System.out.println("Server properties set. ");
             serverProps.list(System.out);
         } catch (IOException e) {
-            System.err.println("Cannot find chatserver.properties "+e);
+            System.err.println("Cannot find festivalserver.properties "+e);
             return;
         }
         CashierDBRepository cashierDBRepository=new CashierDBRepository(serverProps);
@@ -30,7 +30,7 @@ public class StartRpcServer {
         int defaultPort = 55555;
         int atletismServerPort= defaultPort;
         try {
-            atletismServerPort = Integer.parseInt(serverProps.getProperty("chat.server.port"));
+            atletismServerPort = Integer.parseInt(serverProps.getProperty("festival.server.port"));
         }catch (NumberFormatException nef){
             System.err.println("Wrong  Port Number"+nef.getMessage());
             System.err.println("Using default port "+ defaultPort);

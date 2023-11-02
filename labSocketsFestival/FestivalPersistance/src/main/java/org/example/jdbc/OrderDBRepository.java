@@ -1,5 +1,8 @@
 package org.example.jdbc;
 
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.example.Order;
 import org.example.OrderRepository;
 
@@ -11,10 +14,10 @@ import java.util.Properties;
 public class OrderDBRepository implements OrderRepository {
 
         private JdbcUtils dbUtils;
-        ///private static final Logger logger= LogManager.getLogger();
+        private static final Logger logger= LogManager.getLogger();
 
         public OrderDBRepository(Properties properties){
-            ///logger.info("Initializing ConcertDBRepository with properties: {} ",properties);
+            logger.info("Initializing OrderDBRepository with properties: {} ",properties);
             dbUtils=new JdbcUtils(properties);
         }
 
@@ -30,19 +33,19 @@ public class OrderDBRepository implements OrderRepository {
 
         @Override
         public Order save(Order entity) {
-            ////logger.traceEntry("saving order task{}");
+            logger.traceEntry("saving order task{}");
             Connection con= dbUtils.getConnection();
             try(PreparedStatement preparedStatement=con.prepareStatement("insert into orders(concertID,buyerName,numberOfTickets) values (?,?,?)")){
                 preparedStatement.setInt(1,entity.getConcertId());
                 preparedStatement.setString(2,entity.getBuyerName());
                 preparedStatement.setInt(3,entity.getNumberOfTickets());
                 int result=preparedStatement.executeUpdate();
-                ///logger.trace("saved {} objects",result);
+                logger.trace("saved {} objects",result);
             }catch (SQLException e){
-                ///logger.error(e);
+                logger.error(e);
                 System.err.println("ERROR DB" + e);
             }
-            ///logger.traceExit(entity);
+            logger.traceExit(entity);
             return entity;
         }
 

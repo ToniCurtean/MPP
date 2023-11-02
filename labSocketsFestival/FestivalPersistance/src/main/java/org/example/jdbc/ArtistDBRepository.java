@@ -4,6 +4,8 @@ import org.example.Artist;
 import org.example.ArtistRepository;
 import org.example.exceptions.RepositoryException;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -16,10 +18,10 @@ public class ArtistDBRepository implements ArtistRepository {
 
     private JdbcUtils dbUtils;
 
-    ///private static final Logger logger= LogManager.getLogger();
+    private static final Logger logger= LogManager.getLogger();
 
     public ArtistDBRepository(Properties props) {
-        ///logger.info("Initializing ArtistsRepository with properties: {} ",props);
+        logger.info("Initializing ArtistsRepository with properties: {} ",props);
         dbUtils=new JdbcUtils(props);
     }
 
@@ -27,13 +29,14 @@ public class ArtistDBRepository implements ArtistRepository {
 
     @Override
     public Artist findOne(Integer integer) {
-        ///logger.traceEntry("find artist by id task{}");
+        logger.traceEntry("find artist by id task{}");
         Connection con=dbUtils.getConnection();
-        Artist artist=new Artist();
+        Artist artist=null;
         try(PreparedStatement preparedStatement=con.prepareStatement("select * from artists where id=?")){
             preparedStatement.setInt(1,integer);
             try(ResultSet resultSet=preparedStatement.executeQuery()){
                 while(resultSet.next()){
+                    artist=new Artist();
                     artist.setId(resultSet.getInt("id"));
                     artist.setName(resultSet.getString("name"));
                     artist.setMusicType(resultSet.getString("musicType"));
@@ -41,10 +44,10 @@ public class ArtistDBRepository implements ArtistRepository {
             }
         }
         catch(SQLException e){
-            ///logger.error(e);
+            logger.error(e);
             System.err.println("ERROR DB"+ e);
         }
-        ///logger.traceExit(artist);
+        logger.traceExit(artist);
         if(artist ==null)
             throw new RepositoryException("no artist has been found with the given id!");
         return artist;
@@ -52,7 +55,7 @@ public class ArtistDBRepository implements ArtistRepository {
 
     @Override
     public Iterable<Artist> findAll() {
-        ///logger.traceEntry("get all artists task{}");
+        logger.traceEntry("get all artists task{}");
         Connection con= dbUtils.getConnection();
         List<Artist> artists=new ArrayList<>();
         try(PreparedStatement preparedStatement=con.prepareStatement("select * from artists")){
@@ -61,7 +64,7 @@ public class ArtistDBRepository implements ArtistRepository {
                     int id=resultSet.getInt("id");
                     String name=resultSet.getString("name");
                     String musicType=resultSet.getString("musicType");
-                    Artist artist=null;
+                    Artist artist=new Artist();
                     artist.setId(id);
                     artist.setName(name);
                     artist.setMusicType(musicType);
@@ -69,10 +72,10 @@ public class ArtistDBRepository implements ArtistRepository {
                 }
             }
         }catch(SQLException e){
-            ///logger.error(e);
+            logger.error(e);
             System.err.println("ERROR DB"+ e);
         }
-        ///logger.traceExit(artists);
+        logger.traceExit(artists);
         return artists;
 
     }
