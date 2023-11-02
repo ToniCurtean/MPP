@@ -20,9 +20,9 @@ public class ArtistDBRepository implements ArtistRepository {
 
     private static final Logger logger= LogManager.getLogger();
 
-    public ArtistDBRepository(Properties props) {
-        logger.info("Initializing ArtistsRepository with properties: {} ",props);
-        dbUtils=new JdbcUtils(props);
+    public ArtistDBRepository(JdbcUtils jdbcUtils) {
+        logger.info("Initializing ArtistsRepository with {} ",jdbcUtils);
+        dbUtils=jdbcUtils;
     }
 
 

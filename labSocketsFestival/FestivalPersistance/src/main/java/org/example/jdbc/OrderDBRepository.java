@@ -16,9 +16,9 @@ public class OrderDBRepository implements OrderRepository {
         private JdbcUtils dbUtils;
         private static final Logger logger= LogManager.getLogger();
 
-        public OrderDBRepository(Properties properties){
-            logger.info("Initializing OrderDBRepository with properties: {} ",properties);
-            dbUtils=new JdbcUtils(properties);
+        public OrderDBRepository(JdbcUtils jdbcUtils){
+            logger.info("Initializing OrderDBRepository : {} ",jdbcUtils);
+            dbUtils=jdbcUtils;
         }
 
         @Override

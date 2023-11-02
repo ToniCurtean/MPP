@@ -1,9 +1,6 @@
 package org.example;
 
-import org.example.jdbc.ArtistDBRepository;
-import org.example.jdbc.CashierDBRepository;
-import org.example.jdbc.ConcertDBRepository;
-import org.example.jdbc.OrderDBRepository;
+import org.example.jdbc.*;
 import org.example.utils.AbstractServer;
 import org.example.utils.FestivalRpcConcurrentServer;
 
@@ -21,10 +18,11 @@ public class StartRpcServer {
             System.err.println("Cannot find festivalserver.properties "+e);
             return;
         }
-        CashierDBRepository cashierDBRepository=new CashierDBRepository(serverProps);
-        ArtistDBRepository artistDBRepository=new ArtistDBRepository(serverProps);
-        ConcertDBRepository concertDBRepository=new ConcertDBRepository(serverProps);
-        OrderDBRepository orderDBRepository=new OrderDBRepository(serverProps);
+        JdbcUtils jdbcUtils=new JdbcUtils(serverProps);
+        CashierDBRepository cashierDBRepository=new CashierDBRepository(jdbcUtils);
+        ArtistDBRepository artistDBRepository=new ArtistDBRepository(jdbcUtils);
+        ConcertDBRepository concertDBRepository=new ConcertDBRepository(jdbcUtils);
+        OrderDBRepository orderDBRepository=new OrderDBRepository(jdbcUtils);
 
         IFestivalService festServerImpl=new FestivalServicesImpl(artistDBRepository,cashierDBRepository,concertDBRepository,orderDBRepository);
         int defaultPort = 55555;

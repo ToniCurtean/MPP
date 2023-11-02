@@ -21,9 +21,9 @@ public class ConcertDBRepository implements ConcertRepository {
 
     private static final Logger logger= LogManager.getLogger();
 
-    public ConcertDBRepository(Properties properties){
-        logger.info("Initializing ConcertDBRepository with properties: {} ",properties);
-        dbUtils=new JdbcUtils(properties);
+    public ConcertDBRepository(JdbcUtils jdbcUtils){
+        logger.info("Initializing ConcertDBRepository with {}",jdbcUtils);
+        dbUtils=jdbcUtils;
     }
 
     @Override

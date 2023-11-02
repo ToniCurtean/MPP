@@ -21,9 +21,9 @@ public class CashierDBRepository implements CashierRepository {
 
     private static final Logger logger= LogManager.getLogger();
 
-    public CashierDBRepository(Properties props) {
-        logger.info("Initializing CashierRepository with properties: {} ",props);
-        dbUtils=new JdbcUtils(props);
+    public CashierDBRepository(JdbcUtils jdbcUtils) {
+        logger.info("Initializing CashierRepository with: {} ",jdbcUtils);
+        dbUtils=jdbcUtils;
     }
 
     @Override
