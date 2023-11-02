@@ -26,17 +26,17 @@ public class StartRpcServer {
         ConcertDBRepository concertDBRepository=new ConcertDBRepository(serverProps);
         OrderDBRepository orderDBRepository=new OrderDBRepository(serverProps);
 
-        IFestivalService atlServerImpl=new FestivalServicesImpl(artistDBRepository,cashierDBRepository,concertDBRepository,orderDBRepository);
+        IFestivalService festServerImpl=new FestivalServicesImpl(artistDBRepository,cashierDBRepository,concertDBRepository,orderDBRepository);
         int defaultPort = 55555;
-        int atletismServerPort= defaultPort;
+        int festivalServerPort= defaultPort;
         try {
-            atletismServerPort = Integer.parseInt(serverProps.getProperty("festival.server.port"));
+            festivalServerPort = Integer.parseInt(serverProps.getProperty("festival.server.port"));
         }catch (NumberFormatException nef){
             System.err.println("Wrong  Port Number"+nef.getMessage());
             System.err.println("Using default port "+ defaultPort);
         }
-        System.out.println("Starting server on port: "+atletismServerPort);
-        AbstractServer server = new FestivalRpcConcurrentServer(atletismServerPort, atlServerImpl);
+        System.out.println("Starting server on port: "+festivalServerPort);
+        AbstractServer server = new FestivalRpcConcurrentServer(festivalServerPort, festServerImpl);
         try {
             server.start();
         } catch (org.example.utils.ServerException e) {

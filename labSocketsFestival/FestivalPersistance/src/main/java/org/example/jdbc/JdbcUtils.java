@@ -17,7 +17,7 @@ public class JdbcUtils {
         jdbcProps=props;
     }
 
-    private Connection instance=null;
+    private static Connection instance=null;
 
     private Connection getNewConnection(){
         logger.traceEntry();
@@ -41,7 +41,7 @@ public class JdbcUtils {
         return con;
     }
 
-    public Connection getConnection(){
+    public synchronized Connection getConnection(){
         logger.traceEntry();
         try {
             if (instance==null || instance.isClosed())
